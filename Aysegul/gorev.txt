@@ -1,1 +1,7 @@
-
+• Give a brief motivation for the project
+• Provide a description of the data set
+• Report the number of missing values in each attribute
+• Draw scatter plots of attributes (if too many, add only interesting ones)
+• Apply discretization on some of the numeric attributes
+• Apply PCA, and visualize the data in 2 dimensions
+• Apply data augmentation if possible (not done)

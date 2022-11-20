@@ -4,3 +4,5 @@ Give metadata
 Draw box plots of numeric attributes
 Apply one-hot encoding to one of the categorical attributes
 Apply outlier detection
+Make discussions on the findings
+Apply attribute selection

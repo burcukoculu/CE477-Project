@@ -130,6 +130,7 @@ def draw_scatter_plots():
 data = pd.read_csv("media prediction and its cost.csv", encoding="latin-1")
 
 # Data Set Description
+print(data.describe(include='all'))
 report_missed_value(data)
 draw_scatter_plots()
 

@@ -1,0 +1,16 @@
+META DATA: 
+
+The data collected in USA and Me.
+The collection methodology is USA andD Mexico food store website scrapping.
+This data set depends  on the basis of 60k customers income, product, promotion and store features.
+Cost in dolars. 
+
+ 
+
+DATA DOMAİN: 
+
+The data set contains 40 attributes.
+Those attributes contain numeric, word and boolean classification data.
+The data set contains 60429 entities.
+The data set contains information about Food Mart chain stores data about food type,
+ food size, price, wholesale price, stock, information about customers, etc. 

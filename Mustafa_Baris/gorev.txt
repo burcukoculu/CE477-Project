@@ -1,1 +1,6 @@
-
+1)
+Describe the domain of the data
+Give metadata
+Draw box plots of numeric attributes
+Apply one-hot encoding to one of the categorical attributes
+Apply outlier detection

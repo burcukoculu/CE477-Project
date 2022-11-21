@@ -1,1 +1,8 @@
-
+• State the goals of the project
+• Provide the size of the data
+• Draw histograms for nominal attributes
+• Draw a correlation matrix of the attributes
+• Apply normalization and standardization on some of the numeric attributes
+• Impute for missing values if any
+• Apply outlier detection
+• Make discussions on the results
